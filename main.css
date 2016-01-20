@@ -1,0 +1,53 @@
+div { 
+	position: absolute;
+}
+
+h3{
+	position: absolute;
+	left: 18%;
+	bottom: 82%;
+}
+
+.line {
+	position: absolute;
+	left: 18%;
+	bottom: 81%;
+	border: 2px solid black;
+	width: 100px;
+}
+
+.img1 {
+	bottom: 50%;
+	left: 20%;
+}
+
+.img2 {
+	 left: 40%;
+	 bottom: 50%;
+}
+
+.img3 { 
+	left: 60%;
+	bottom: 50%; }
+
+.img4 {
+	bottom: 20%;
+	left: 20%;
+}
+
+.img5 {
+	left: 40%;
+	bottom: 20%;
+}
+
+.img6 {
+	left: 60%;
+	bottom: 20%;
+}
+
+p {
+	position: absolute;
+	left: 37%;
+	bottom: -3%;
+	color: white;
+}
